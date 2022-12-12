@@ -9,4 +9,4 @@ I am sharing my answers of my favorite cs50 problems.
  - [Tideman](https://cs50.harvard.edu/x/2022/psets/3/tideman/)
  - [Filter](https://cs50.harvard.edu/x/2022/psets/4/filter/more/)
  - [Credit](https://cs50.harvard.edu/x/2022/psets/1/credit/)
- - [Inheritance](https://cs50.harvard.edu/x/2022/labs/5/)# CS50
+ - [Inheritance](https://cs50.harvard.edu/x/2022/labs/5/)
